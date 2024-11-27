@@ -23,3 +23,4 @@ Since the Youtube API gives us comments and emojis, there isn't more we need to 
 Using a Huggingface model to build a toxicity classifier, We used Youtube videos to evaluate how toxicity affects communities. In this case it would be the communities of the Youtubers. Youtuber commmunities have been steadily increasing throughout the years because of ease of access to the internet and Youtube being free. We analyze the Youtuber comments and how they affect the Youtubers and their communities.
 
 ## For an easier time scrolling, go to the collab. Its table of contents is well organized.
+[Direct](https://docs.google.com/document/d/1iYGwOhD8CpG5vGuvcD6cRaDzgDLypck5QD7j0Q8MOh0/edit?usp=sharing)
