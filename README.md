@@ -10,7 +10,7 @@ Youtube Comments: The primary data used for this analysis were youtube comments 
 
 ### Tools
 - Hugging Face Model [here](https://huggingface.co/s-nlp/roberta_toxicity_classifier)
-- Google Collab [here](https://colab.research.google.com/drive/1i0VyNJ7W0KmU8PWuXhE238pYmQl4fh04?usp=sharing)
+- Google Collab
 
 ### Data Cleaning/Preparation
 In the initial data preparation phase, we performed:
@@ -23,5 +23,7 @@ Since the Youtube API gives us comments and emojis, there isn't more we need to 
 Using a Huggingface model to build a toxicity classifier, We used Youtube videos to evaluate how toxicity affects communities. In this case it would be the communities of the Youtubers. Youtuber commmunities have been steadily increasing throughout the years because of ease of access to the internet and Youtube being free. We analyze the Youtuber comments and how they affect the Youtubers and their communities.
 
 For an easier time scrolling, go to the collab. Its table of contents is well organized.
+
+[Direct to GoogleCollab](https://colab.research.google.com/drive/1i0VyNJ7W0KmU8PWuXhE238pYmQl4fh04?usp=sharing)
 
 [Direct to Report in GoogleDocs](https://docs.google.com/document/d/1iYGwOhD8CpG5vGuvcD6cRaDzgDLypck5QD7j0Q8MOh0/edit?usp=sharing)
