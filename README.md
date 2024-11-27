@@ -9,8 +9,8 @@ This data analysis project aims to provide insights into the effects of toxicity
 Youtube Comments: The primary data used for this analysis were youtube comments posted in specific videos uploaded in recent times. It take the first 100 comments of the video containing statements made along with emojis by the individual.
 
 ### Tools
-- Hugging Face Model [Click Here](https://huggingface.co/s-nlp/roberta_toxicity_classifier)
-- Google Collab
+- Hugging Face Model [here](https://huggingface.co/s-nlp/roberta_toxicity_classifier)
+- Google Collab [here](https://colab.research.google.com/drive/1i0VyNJ7W0KmU8PWuXhE238pYmQl4fh04?usp=sharing)
 
 ### Data Cleaning/Preparation
 In the initial data preparation phase, we performed:
