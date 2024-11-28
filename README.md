@@ -11,7 +11,7 @@ Youtube Videos:
 3. [Behind the Scenes at Bratz](https://www.youtube.com/watch?v=sAQxc2W6ifY)
 4. [FUNNIEST DONATIONS OF 2024 SO FAR](https://www.youtube.com/watch?v=nApaWeO20VU)
 
-Youtube Comments: The primary data used for this analysis were youtube comments posted in specific videos uploaded in recent times. It take the first 100 comments of the video containing statements made along with emojis by the individual.
+Youtube Comments: The primary data used for this analysis were youtube comments posted in specific videos uploaded in recent times. It take the first 1000 comments of the video containing statements made along with emojis by the individual.
 
 Kaggle Dataset [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
