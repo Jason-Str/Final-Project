@@ -11,6 +11,7 @@ Youtube Comments: The primary data used for this analysis were youtube comments 
 ### Tools
 - Hugging Face Model [here](https://huggingface.co/s-nlp/roberta_toxicity_classifier)
 - Google Collab
+- Youtube API [here](https://developers.google.com/youtube/v3)
 
 ### Data Cleaning/Preparation
 In the initial data preparation phase, we performed:
