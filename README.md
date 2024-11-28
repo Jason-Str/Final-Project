@@ -13,7 +13,7 @@ Youtube Videos:
 
 Youtube Comments: The primary data used for this analysis were youtube comments posted in specific videos uploaded in recent times. It take the first 1000 comments of the video containing statements made along with emojis by the individual.
 
-Kaggle Dataset [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+Kaggle Dataset for Evaluation [here]([https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge](https://www.kaggle.com/datasets/reihanenamdari/youtube-toxicity-data?select=youtoxic_english_1000.csv))
 
 ### Tools
 - Hugging Face Model [here](https://huggingface.co/s-nlp/roberta_toxicity_classifier)
