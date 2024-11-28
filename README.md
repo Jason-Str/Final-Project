@@ -5,8 +5,15 @@
 This data analysis project aims to provide insights into the effects of toxicity in Youtuber video comments on communities over the past year. By analyzing the frequency and the level of toxicity present in the youtube comments we can use current news and suggestions to provide a conclusion on the effects of toxicity from Youtube comments.
 
 ### Data Sources
+Youtube Videos:
+1
+2
+3
+4
 
 Youtube Comments: The primary data used for this analysis were youtube comments posted in specific videos uploaded in recent times. It take the first 100 comments of the video containing statements made along with emojis by the individual.
+
+Kaggle Dataset [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 ### Tools
 - Hugging Face Model [here](https://huggingface.co/s-nlp/roberta_toxicity_classifier)
