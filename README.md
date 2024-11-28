@@ -7,7 +7,7 @@ This data analysis project aims to provide insights into the effects of toxicity
 ### Data Sources
 Youtube Videos:
 1. [Atrioc - Election Night Was Wild](https://www.youtube.com/watch?v=yOWjxbaPzdA)
-2. [Why I Thought* Kamala Harris Would Win...](https://www.youtube.com/watch?v=MI8-uu_1AHw)
+2. [Why I Thought Kamala Harris Would Win...](https://www.youtube.com/watch?v=MI8-uu_1AHw)
 3. [Behind the Scenes at Bratz](https://www.youtube.com/watch?v=sAQxc2W6ifY)
 4. [FUNNIEST DONATIONS OF 2024 SO FAR](https://www.youtube.com/watch?v=nApaWeO20VU)
 
