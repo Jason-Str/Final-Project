@@ -6,10 +6,6 @@ This data analysis project aims to provide insights into the effects of toxicity
 
 ### Data Sources
 Youtube Videos:
-1
-2
-3
-4
 
 Youtube Comments: The primary data used for this analysis were youtube comments posted in specific videos uploaded in recent times. It take the first 100 comments of the video containing statements made along with emojis by the individual.
 
